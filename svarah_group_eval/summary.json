@@ -1,0 +1,175 @@
+{
+    "overall": {
+        "num_examples": 6656,
+        "mean_pesq": 2.0581456969865823,
+        "mean_stoi": 0.8437311876584239,
+        "pesq_count": 6607,
+        "stoi_count": 6656
+    },
+    "by_primary_language": {
+        "Kannada": {
+            "num_examples": 577,
+            "mean_pesq": 2.2343848038138003,
+            "mean_stoi": 0.8625178697914826,
+            "pesq_count": 570,
+            "stoi_count": 577
+        },
+        "Dogri": {
+            "num_examples": 255,
+            "mean_pesq": 2.01178034821989,
+            "mean_stoi": 0.821347564411627,
+            "pesq_count": 253,
+            "stoi_count": 255
+        },
+        "Maithili": {
+            "num_examples": 462,
+            "mean_pesq": 1.9496363513579253,
+            "mean_stoi": 0.8323336411271632,
+            "pesq_count": 457,
+            "stoi_count": 462
+        },
+        "Bengali": {
+            "num_examples": 297,
+            "mean_pesq": 2.005661284031511,
+            "mean_stoi": 0.800031426165447,
+            "pesq_count": 294,
+            "stoi_count": 297
+        },
+        "Bodo": {
+            "num_examples": 402,
+            "mean_pesq": 1.807577407568173,
+            "mean_stoi": 0.8228009031759858,
+            "pesq_count": 401,
+            "stoi_count": 402
+        },
+        "Malayalam": {
+            "num_examples": 503,
+            "mean_pesq": 1.857523580591282,
+            "mean_stoi": 0.826231129193166,
+            "pesq_count": 499,
+            "stoi_count": 503
+        },
+        "Assamese": {
+            "num_examples": 205,
+            "mean_pesq": 2.1330767782295452,
+            "mean_stoi": 0.8503046958761308,
+            "pesq_count": 204,
+            "stoi_count": 205
+        },
+        "Marathi": {
+            "num_examples": 231,
+            "mean_pesq": 2.0655494949002287,
+            "mean_stoi": 0.8446875927696444,
+            "pesq_count": 231,
+            "stoi_count": 231
+        },
+        "Odia": {
+            "num_examples": 456,
+            "mean_pesq": 2.1930279282402836,
+            "mean_stoi": 0.8556056765669368,
+            "pesq_count": 451,
+            "stoi_count": 456
+        },
+        "Nepali": {
+            "num_examples": 599,
+            "mean_pesq": 2.1776716117077446,
+            "mean_stoi": 0.8578080311919485,
+            "pesq_count": 598,
+            "stoi_count": 599
+        },
+        "Konkani": {
+            "num_examples": 302,
+            "mean_pesq": 2.2589346809892463,
+            "mean_stoi": 0.8781126403447556,
+            "pesq_count": 302,
+            "stoi_count": 302
+        },
+        "Hindi": {
+            "num_examples": 256,
+            "mean_pesq": 2.2048189475780395,
+            "mean_stoi": 0.8717597208184977,
+            "pesq_count": 254,
+            "stoi_count": 256
+        },
+        "Urdu": {
+            "num_examples": 514,
+            "mean_pesq": 2.161019092458639,
+            "mean_stoi": 0.8610828565402643,
+            "pesq_count": 509,
+            "stoi_count": 514
+        },
+        "Punjabi": {
+            "num_examples": 189,
+            "mean_pesq": 1.9246605552693523,
+            "mean_stoi": 0.8475763469553931,
+            "pesq_count": 189,
+            "stoi_count": 189
+        },
+        "Kashmiri": {
+            "num_examples": 310,
+            "mean_pesq": 2.1104297714848674,
+            "mean_stoi": 0.8620477655171446,
+            "pesq_count": 310,
+            "stoi_count": 310
+        },
+        "Tamil": {
+            "num_examples": 384,
+            "mean_pesq": 1.8510707504947448,
+            "mean_stoi": 0.8164972772112923,
+            "pesq_count": 373,
+            "stoi_count": 384
+        },
+        "Telugu": {
+            "num_examples": 334,
+            "mean_pesq": 2.0804299774828614,
+            "mean_stoi": 0.8596422269622569,
+            "pesq_count": 333,
+            "stoi_count": 334
+        },
+        "Gujarati": {
+            "num_examples": 242,
+            "mean_pesq": 2.243688998143535,
+            "mean_stoi": 0.8951349841445078,
+            "pesq_count": 242,
+            "stoi_count": 242
+        },
+        "Sindhi": {
+            "num_examples": 138,
+            "mean_pesq": 1.4103986312003032,
+            "mean_stoi": 0.6606536026550565,
+            "pesq_count": 137,
+            "stoi_count": 138
+        }
+    },
+    "by_age_group": {
+        "18-30": {
+            "num_examples": 2219,
+            "mean_pesq": 2.0827057903953783,
+            "mean_stoi": 0.8426151337665286,
+            "pesq_count": 2209,
+            "stoi_count": 2219
+        },
+        "30-45": {
+            "num_examples": 2670,
+            "mean_pesq": 2.068364213778582,
+            "mean_stoi": 0.8433048931074387,
+            "pesq_count": 2643,
+            "stoi_count": 2670
+        },
+        "45-60": {
+            "num_examples": 1305,
+            "mean_pesq": 2.0293772351025434,
+            "mean_stoi": 0.8488348589655924,
+            "pesq_count": 1298,
+            "stoi_count": 1305
+        },
+        "60+": {
+            "num_examples": 462,
+            "mean_pesq": 1.9620421462299005,
+            "mean_stoi": 0.8371390642415318,
+            "pesq_count": 457,
+            "stoi_count": 462
+        }
+    },
+    "num_records_evaluated": 6656
+}
