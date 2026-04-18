@@ -1,0 +1,12 @@
+torch
+torchaudio
+numpy
+soundfile
+pydantic
+tqdm
+datasets
+huggingface_hub
+pesq
+pystoi
+matplotlib
+thop
